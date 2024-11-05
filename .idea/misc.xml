@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.10 (location)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (location)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (grid-ingestion-shared)" project-jdk-type="Python SDK" />
 </project>
