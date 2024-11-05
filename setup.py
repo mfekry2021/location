@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='feko-location',  # Name of the package
-    version='0.1.1.2',
+    version='0.1.1.3',
     packages=find_packages(),
     description='A description of your package',
     author='Your Name',
